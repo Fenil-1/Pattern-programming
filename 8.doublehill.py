@@ -14,5 +14,4 @@ for y in range(1,a+1):
         print("*",end="")
     for m in range(1,y):
         print("*",end="")
-
     print()
