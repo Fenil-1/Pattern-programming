@@ -8,6 +8,7 @@ for i in range(num):
             temp_list.append(1)
         else:
             temp_list.append(list[i-1][j-1]+list[i-1][j])
-    list.append(temp_list)
     print(temp_list)
-    
+    list.append(temp_list)     
+
+
